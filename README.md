@@ -196,7 +196,7 @@ pip install pandas matplotlib seaborn scipy scikit-learn numpy
 
 06_evaluate.py — оценка точности предсказаний и расчет метрик
 
-07_eda_plots.py — генерация финальных исследовательских графиков (EDA)
+07_eda_plots.py — генерация графиков
 
 ### 3. Результаты работы
 data/ — все датасеты 
